@@ -1,0 +1,193 @@
+.how{
+    border: 2px solid #080808;
+    display: inline-block;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 10px 0 15px;
+    transition: 500ms;
+    
+}
+.minhaz{
+    width: 100%px;
+    box-sizing: border-box;
+    height: 100%;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.how:hover{
+    background-color: lightslategray;
+    border-radius: 25px;
+    color: aliceblue;
+}.howa{
+    border: 2px solid #6b0d0d;
+    display: inline-block;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 10px 0 15px;
+    transition: 500ms;
+    margin: 20px 30px;
+    
+}
+.minhaza{
+    width: 100%px;
+    box-sizing: border-box;
+    height: 100%;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.howa:hover{
+    background-color: rgb(33, 78, 122);
+    border-radius: 40px;
+    color: rgb(136, 214, 167);
+}.howb{
+    border: 2px solid #29ce6b;
+    display: inline-block;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 10px 0 15px;
+    transition: 500ms;
+    box-sizing: border-box;
+margin: 20px 10px;
+    
+    
+}
+
+.minhazb{
+    width: 100%px;
+    box-sizing: border-box;
+    height: 100%;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.howb:hover{
+    background-color: rgb(158, 52, 148);
+    border-radius: 15px 20px 15px 20px ;
+    color: aliceblue;
+}.howc{
+    border: 2px solid #1461a0;
+    display: inline-block;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 10px 0 15px;
+    transition: 500ms;
+    margin: 20px 30px ;
+}
+.minhazc{
+    width: 100%px;
+    box-sizing: border-box;
+    height: 100%;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.howc:hover{
+    background-color: rgb(199, 88, 28);
+    border-radius: 35px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}.howd{
+    border: 2px solid #c71313;
+    display: inline-block;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 10px 0 15px;
+    transition: 500ms;
+    margin: 20px 30px ;
+}
+.minhazd{
+    width: 100%px;
+    box-sizing: border-box;
+    height: 100%;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.howd:hover{
+    background-color: rgb(42, 6, 223);
+    border-radius: 30px;
+    color: aliceblue;
+    font-family: inherit;
+
+}
+.howf{
+    border: 2px solid #e1fd0c;
+    display: inline-block;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 10px 0 15px;
+    transition: 500ms;
+    margin: 10px 10px ;
+    
+}
+.minhazf{
+    width: 100%px;
+    box-sizing: border-box;
+    height: 100%;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.howf:hover{
+    background-color: rgb(214, 85, 20);
+    border-radius: 35px;
+    color: rgb(6, 15, 23);
+    font-family: sans-serif;
+
+}
